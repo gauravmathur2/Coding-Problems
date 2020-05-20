@@ -1,2 +1,2 @@
 # Coding-Problems
-All soultions of coding propblems that i have solved
+All the my sollutions of coding problems that i have solved.
